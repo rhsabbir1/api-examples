@@ -12,4 +12,4 @@ const displayData = (quote) =>{
     
 }
 
-lodeQute()
+lodeQute() 
